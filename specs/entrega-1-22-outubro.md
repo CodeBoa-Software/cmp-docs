@@ -61,6 +61,19 @@
 - [ ] Link público sem exposição de dados sensíveis
 - [ ] Proteção contra spam/abuso
 
+### Testes
+- [ ] ⚠️ **IMPORTANTE:** Testar upload de documentos em dispositivos diferentes
+  - [ ] Android (celular e tablet)
+  - [ ] iOS (iPhone e iPad)
+  - [ ] Desktop (Windows, Mac, Linux)
+  - [ ] Diferentes navegadores (Chrome, Safari, Firefox, Edge)
+- [ ] Validar upload de PDFs
+- [ ] Validar upload de imagens (JPG, PNG)
+- [ ] Validar captura direta da câmera (mobile)
+- [ ] Testar em diferentes tamanhos de tela
+- [ ] Validar limites de tamanho de arquivo
+- [ ] Testar conexões lentas/instáveis
+
 ---
 
 ## 📝 Notas
@@ -71,6 +84,12 @@
 - Formatos aceitos: PDF, JPG, PNG
 - Tamanho máximo sugerido: 5MB por arquivo
 - Total: 4 arquivos obrigatórios
+- **⚠️ CRÍTICO:** Interface deve funcionar bem em dispositivos móveis
+  - Permitir seleção de arquivos da galeria
+  - Permitir captura direta da câmera
+  - Preview do arquivo antes do envio
+  - Indicador de progresso durante upload
+  - Mensagem clara de sucesso/erro
 
 **Pré-Agendamento:**
 - Não é agendamento definitivo, apenas preferência
@@ -90,6 +109,9 @@
 - [ ] Equipe administrativa terá painel para visualizar pré-cadastros?
 - [ ] Notificação para equipe: email, dashboard, WhatsApp?
 - [ ] Prazo de validade do pré-cadastro?
+- [ ] ⚠️ Estratégia de testes cross-device está definida?
+- [ ] Quem fará os testes em dispositivos reais?
+- [ ] Precisamos de device lab ou usar BrowserStack/similar?
 
 ---
 
