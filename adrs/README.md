@@ -4,6 +4,9 @@
 
 - [ADR-001: Uso de Architecture Decision Records](./ADR-001-uso-de-adrs.md)
 
+> **Nota:** As discussões em andamento estão sendo documentadas em [`/docs/ideias-discussoes.md`](../docs/ideias-discussoes.md) 
+> e serão formalizadas como ADRs quando as decisões estiverem maduras.
+
 ## Template para Novos ADRs
 
 Ao criar um novo ADR, use a seguinte estrutura:
