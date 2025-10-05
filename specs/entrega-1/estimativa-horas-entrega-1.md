@@ -11,20 +11,20 @@
 
 | Disciplina | Horas | % do Total | Complexidade |
 |-----------|-------|------------|--------------|
-| **1. Análise e Planejamento** | 20h | 10% | Média |
-| **2. Setup de Infraestrutura** | 30h | 15% | Alta |
+| **1. Análise e Planejamento** | 24h | 14% | Média |
+| **2. Setup de Infraestrutura** | 30h | 17% | Alta |
 | **3. Backend Development** | 49h | 28% | Alta |
-| **4. Frontend Development** | 29h | 17% | Média-Alta |
-| **5. Integração e Testes** | 24h | 12% | Média-Alta |
-| **6. Documentação e Deploy** | 20h | 10% | Baixa-Média |
-| **TOTAL BASE** | **172h** | **100%** | |
+| **4. Frontend Development** | 29h | 16% | Média-Alta |
+| **5. Integração e Testes** | 24h | 14% | Média-Alta |
+| **6. Documentação e Deploy** | 20h | 11% | Baixa-Média |
+| **TOTAL BASE** | **176h** | **100%** | |
 
 ### Margem de Contingência
 ```
-Horas base: 172h
+Horas base: 176h
 Margem para imprevistos (+15%): 26h
 ───────────────────────────────────
-TOTAL COM MARGEM: 198h
+TOTAL COM MARGEM: 202h
 ```
 
 **Justificativa da margem:**
@@ -158,26 +158,26 @@ TOTAL COM MARGEM: 198h
 - Testes (unitários, integração, E2E)
 - Documentação técnica
 - Refinamentos e ajustes
-- **100% do projeto = 172h**
+- **100% do projeto = 176h**
 - **Taxa horária sugerida:** R$ 200/h
 
 ---
 
-## 🎯 Distribuição de Horas por Fase (Modelo Híbrido)
+## 🎯 Distribuição de Horas por Fase
 
-### Fase 1: MVP Funcional (137h)
+### Fase 1: MVP Funcional
 
 **Prazo:** 3 semanas
 
 | Disciplina | Horas |
 |-----------|-------|
-| Análise e Planejamento | 20h |
+| Análise e Planejamento | 18h |
 | Setup de Infraestrutura | 25h |
 | Backend Development | 32h |
-| Frontend Development | 30h |
+| Frontend Development | 20h |
 | Integração e Testes | 15h |
-| Documentação e Deploy | 15h |
-| **TOTAL FASE 1** | **137h** |
+| Documentação e Deploy | 10h |
+| **TOTAL FASE 1** | **120h** |
 
 **Entregas:**
 - ✅ Formulário funcional (sem polimento visual excessivo)
@@ -189,18 +189,19 @@ TOTAL COM MARGEM: 198h
 
 ---
 
-### Fase 2: Refinamento e Produção (86h)
+### Fase 2: Refinamento e Produção
 
 **Prazo:** 2-5 semanas
 
 | Disciplina | Horas |
 |-----------|-------|
+| Análise e Planejamento (ajustes) | 6h |
 | Setup de Infraestrutura (ajustes) | 5h |
-| Backend Development (refinamentos) | 22h |
-| Frontend Development (polimento) | 18h |
+| Backend Development (refinamentos) | 17h |
+| Frontend Development (polimento) | 9h |
 | Integração e Testes (completos) | 9h |
-| Documentação e Deploy | 5h |
-| **TOTAL FASE 2** | **86h** |
+| Documentação e Deploy | 10h |
+| **TOTAL FASE 2** | **56h** |
 
 **Entregas:**
 - ✅ UX/UI polido (Shadcn/UI completo)
@@ -244,33 +245,33 @@ TOTAL COM MARGEM: 198h
 ### Timeline Total: 5-8 semanas
 
 ```
-Semana 1: Análise + Setup (50h)
-├─ Refinamento requisitos e arquitetura
-├─ Infraestrutura GCP completa
+Semana 1: Análise + Setup (43h)
+├─ Refinamento requisitos e arquitetura (18h)
+├─ Infraestrutura GCP completa (25h)
 └─ Setup projeto (Backend + Frontend)
 
-Semana 2: Desenvolvimento Core (67h)
-├─ Backend APIs e integrações
-├─ Frontend formulário chat
+Semana 2: Desenvolvimento Core (52h)
+├─ Backend APIs e integrações (32h)
+├─ Frontend formulário chat (20h)
 └─ Upload de arquivos
 
-Semana 3: Finalização MVP + Deploy Produção (20h)
-├─ Testes integração
+Semana 3: Finalização MVP + Deploy Produção (25h)
+├─ Testes integração (15h)
 ├─ Correções críticas
-└─ Deploy em PRODUÇÃO
+└─ Deploy em PRODUÇÃO (10h)
 
 ──────────────────────────────────────────
-FASE 1 COMPLETA - MVP EM PRODUÇÃO (3 semanas)
+FASE 1 COMPLETA - MVP EM PRODUÇÃO (3 semanas = 120h)
 
-Semanas 4-8: Refinamento e Melhorias (53h)
-├─ Ajustes baseados em feedback
-├─ Testes E2E extensivos
-├─ Otimizações de performance
-├─ Documentação completa
-└─ Melhorias de UX
+Semanas 4-8: Refinamento e Melhorias (56h)
+├─ Ajustes baseados em feedback (6h Análise + 5h Infra)
+├─ Refinamentos backend (17h)
+├─ Polimento frontend (9h)
+├─ Testes E2E extensivos (9h)
+└─ Documentação completa e handover (10h)
 
 ──────────────────────────────────────────
-FASE 2 COMPLETA (2-5 semanas após MVP)
+FASE 2 COMPLETA (2-5 semanas após MVP = 56h)
 ```
 
 ---
@@ -289,9 +290,9 @@ Ao final do projeto, validar:
 ### Meta de Precisão
 
 ```
-Desvio aceitável: ±10% (172h ± 17h)
-Faixa esperada: 155h - 189h
-Com margem incluída: até 198h
+Desvio aceitável: ±10% (176h ± 18h)
+Faixa esperada: 158h - 194h
+Com margem incluída: até 202h
 ```
 
 ---
