@@ -5,19 +5,6 @@
 **Data:** Outubro 2025  
 **Versão:** 1.0
 
--### Cronograma de Pagamento
-
-| Marco | Valor | % | Acumulado |
-|-------|-------|---|-----------||
-| **Assinatura do contrato** | R$ 11.150 | 25% | R$ 11.150 |
-| **Entrega MVP Produção (Fase 1)** | R$ 11.150 | 25% | R$ 22.300 |
-| **Entrega Final (Fase 2)** | R$ 22.300 | 50% | R$ 44.600 |# 📋 Escopo da Entrega 1
-
-##### **Fase 1: MVP Funcional - R$ 27.000**
-
-**Prazo:** 3 semanas  
-**Horas:** ~137h
-
 ### Funcionalidades Incluídas
 
 #### ✅ Frontend (React + Shadcn/UI)
@@ -60,20 +47,20 @@
 
 | Disciplina | Horas | % do Total | Complexidade |
 |-----------|-------|------------|--------------|
-| **1. Análise e Planejamento** | 20h | 10% | Média |
-| **2. Setup de Infraestrutura** | 30h | 15% | Alta |
+| **1. Análise e Planejamento** | 24h | 14% | Média |
+| **2. Setup de Infraestrutura** | 30h | 17% | Alta |
 | **3. Backend Development** | 49h | 28% | Alta |
-| **4. Frontend Development** | 29h | 17% | Média-Alta |
-| **5. Integração e Testes** | 24h | 12% | Média-Alta |
-| **6. Documentação e Deploy** | 20h | 10% | Baixa-Média |
-| **TOTAL BASE** | **172h** | **100%** | |
+| **4. Frontend Development** | 29h | 16% | Média-Alta |
+| **5. Integração e Testes** | 24h | 14% | Média-Alta |
+| **6. Documentação e Deploy** | 20h | 11% | Baixa-Média |
+| **TOTAL BASE** | **176h** | **100%** | |
 
 ### Margem de Contingência
 ```
-Horas base: 172h
+Horas base: 176h
 Margem para imprevistos (+15%): 26h
 ───────────────────────────────────
-TOTAL COM MARGEM: 198h
+TOTAL COM MARGEM: 202h
 ```
 
 > 📋 **Detalhamento completo:** Para ver o breakdown detalhado de horas por atividade, complexidades e justificativas, consulte [Estimativa de Horas - Entrega 1](./estimativa-horas-entrega-1.md)
@@ -94,71 +81,69 @@ TOTAL COM MARGEM: 198h
 - Testes (unitários, integração, E2E)
 - Documentação técnica
 - Refinamentos e ajustes
-- **100% do projeto = 172h**
-- **Taxa horária sugerida:** R$ 200/h
+- **100% do projeto = 176h**
+- **Taxa horária sugerida:** R$ 180/h
 
 ## 💵 Precificação final
 
 ### Estrutura em 2 Fases
 
-#### **Fase 1: MVP Funcional - R$ 27.400**
+#### **Fase 1: MVP Funcional - R$ 21.600**
 
 **Prazo:** 3 semanas  
-**Horas:** 137h
+**Horas:** 120h
 
 **Entregas:**
 - ✅ Formulário funcional (sem polimento visual excessivo)
-- ✅ Upload básico de documentos (funcional, sem drag-n-drop)
+- ✅ Upload avançado (drag-n-drop, preview, progresso)
 - ✅ Integração Drive + PostgreSQL
 - ✅ Backend completo (APIs + validações)
-- ✅ Deploy em ambiente de homologação
+- ✅ Deploy em ambiente de produção
 - ✅ Testes básicos de funcionamento
 
 **Objetivo:** Validar funcionalidade core rapidamente.
 
 **Pagamento:**
-- 50% no início (R$ 13.500)
-- 50% na entrega (R$ 13.500)
+- 50% no início (R$ 10.800)
+- 50% na entrega (R$ 10.800)
 
 ---
 
-#### **Fase 2: Refinamento e Produção - R$ 17.200**
+#### **Fase 2: Refinamento e Produção - R$ 10.080**
 
 **Prazo:** 2-5 semanas  
-**Horas:** 86h
+**Horas:** 56h
 
 **Entregas:**
 - ✅ UX/UI polido (Shadcn/UI completo)
-- ✅ Upload avançado (drag-n-drop, preview, progresso)
 - ✅ Validações completas (client + server)
 - ✅ Responsividade mobile perfeita
 - ✅ Testes automatizados (E2E + unitários)
 - ✅ Monitoring e alertas configurados
-- ✅ Deploy em produção
 - ✅ Documentação completa
 - ✅ Handover com treinamento
 
 **Objetivo:** Experiência de usuário premium e produção.
 
 **Pagamento:**
-- 100% na entrega final (R$ 23.000)
+- 100% na entrega final (R$ 10.080)
 
 ---
 
 ### Total
 
 ```
-Fase 1 (MVP):          R$ 27.400
-Fase 2 (Refinamento):  R$ 17.200
+Fase 1 (MVP):          R$ 21.600
+Fase 2 (Refinamento):  R$ 10.080
 ──────────────────────────────────
-TOTAL:         R$ 44.600
+TOTAL:         R$ 31.680
 ```
 
 ### Características
 
 | Aspecto | Detalhes |
 |---------|----------|
-| **Valor total** | R$ 44.600 (fixo) |
+| **Valor total** | R$ 31.680 (fixo) |
 | **Risco para cliente** | Médio (valida cedo, ajusta depois) |
 | **Risco para fornecedor** | Médio (compartilhado) |
 | **Flexibilidade** | Média-Alta (ajustes entre fases) |
@@ -168,7 +153,7 @@ TOTAL:         R$ 44.600
 ### Vantagens deste Planejamento
 
 ```
-✅ Cliente valida funcionalidade em 4 semanas (rápido!)
+✅ Cliente valida funcionalidade em 3 semanas (rápido!)
 ✅ Feedback incorporado antes do polimento final
 ✅ Menor risco de retrabalho grande
 ✅ Pagamento escalonado (melhor cashflow)
@@ -181,9 +166,9 @@ TOTAL:         R$ 44.600
 
 | Marco | Valor | % | Acumulado |
 |-------|-------|---|-----------|
-| **Assinatura do contrato** | R$ 12.500 | 25% | R$ 12.500 |
-| **Entrega MVP Produção (Fase 1)** | R$ 12.500 | 25% | R$ 25.000 |
-| **Entrega Final (Fase 2)** | R$ 25.000 | 50% | R$ 50.000 |
+| **Assinatura do contrato** | R$ 7.920 | 25% | R$ 7.920 |
+| **Entrega MVP Produção (Fase 1)** | R$ 7.920 | 25% | R$ 15.840 |
+| **Entrega Final (Fase 2)** | R$ 15.840 | 50% | R$ 31.680 |
 
 ---
 
@@ -193,16 +178,16 @@ TOTAL:         R$ 44.600
 
 ```markdown
 ═══════════════════════════════════════════════════════
-INVESTIMENTO: R$ 44.600 (Planejamento em 2 Fases)
+INVESTIMENTO: R$ 31.680 (Planejamento em 2 Fases)
 ═══════════════════════════════════════════════════════
 
 FASE 1 - MVP FUNCIONAL (3 semanas)
-├─ Investimento: R$ 27.400
+├─ Investimento: R$ 21.600
 ├─ Pagamento: 50% início + 50% entrega
 └─ Entrega: Formulário + Upload + Integração Drive
 
 FASE 2 - REFINAMENTO E PRODUÇÃO (2-5 semanas)
-├─ Investimento: R$ 17.200
+├─ Investimento: R$ 10.080
 ├─ Pagamento: 100% na entrega final
 └─ Entrega: UX polido + Testes + Ajustes finais
 
@@ -279,12 +264,12 @@ GARANTIA: 30 dias pós aprovação final
 ### 1. Pagamento Antecipado (À Vista)
 
 ```
-Valor normal: R$ 44.600
+Valor normal: R$ 31.680
 Desconto: -8%
 ──────────────────────────
-Valor à vista: R$ 41.032
+Valor à vista: R$ 29.146
 
-Economia: R$ 3.568
+Economia: R$ 2.534
 ```
 
 **Condições:**
@@ -297,17 +282,17 @@ Economia: R$ 3.568
 ### 2. Fechamento de Múltiplas Entregas
 
 ```
-Entrega 1 (Pré-cadastro):           R$ 44.600
-Entrega 2 (Triagem + WhatsApp):     R$ 38.000
-Entrega 3 (Atendimentos + Dados):   R$ 45.000
+Entrega 1 (Pré-cadastro):           R$ 31.680
+Entrega 2 (Triagem + WhatsApp):     R$ 34.000
+Entrega 3 (Atendimentos + Dados):   R$ 40.000
 ───────────────────────────────────────────────
-Total sem desconto:                R$ 127.600
+Total sem desconto:                R$ 105.680
 
 Desconto (fechamento conjunto): -12%
 ───────────────────────────────────────────────
-VALOR TOTAL COM DESCONTO:          R$ 112.288
+VALOR TOTAL COM DESCONTO:           R$ 92.998
 
-Economia total: R$ 15.312
+Economia total: R$ 12.682
 ```
 
 **Vantagens:**
@@ -320,7 +305,7 @@ Economia total: R$ 15.312
 
 ## 🔍 Justificativa do Preço
 
-### Por que R$ 44.600?
+### Por que R$ 31.680?
 
 #### 1. Complexidade Técnica
 
@@ -360,7 +345,7 @@ Economia total: R$ 15.312
 | **Freelancer "barato"** | R$ 15-25k | ⚠️ Sem garantia, código legado, sem testes, risco alto |
 | **Software pronto (SaaS)** | R$ 300-500/mês | ⚠️ Vendor lock-in, sem customização, compliance duvidoso |
 | **Agência grande** | R$ 80-120k | ✅ Qualidade, ⚠️ Muito caro, overhead alto |
-| **CodeBoa (Proposta)** | R$ 44.600 | ✅ Qualidade, ✅ Preço justo, ✅ Flexível ⭐ |
+| **CodeBoa (Proposta)** | R$ 31.680 | ✅ Qualidade, ✅ Preço justo, ✅ Flexível ⭐ |
 
 ---
 
@@ -373,9 +358,9 @@ Economia total: R$ 15.312
    - Esclarecer dúvidas sobre funcionalidades
    
 2. **Escolher modelo** de pagamento
-   - Time & Material (172h × R$ 200/h = R$ 34.400 base)
-   - Preço Fixo (R$ 44.600)
-   - **Híbrido - Recomendado** (R$ 44.600)
+   - Time & Material (176h × R$ 180/h = R$ 31.680 base)
+   - Preço Fixo (R$ 31.680)
+   - **Híbrido - Recomendado** (R$ 31.680)
    
 3. **Definir infraestrutura**
    - Cloud SQL (R$ 479/mês) ou

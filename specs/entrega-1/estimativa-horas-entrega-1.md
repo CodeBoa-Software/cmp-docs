@@ -290,8 +290,8 @@ Ao final do projeto, validar:
 ### Meta de Precisão
 
 ```
-Desvio aceitável: ±10% (176h ± 18h)
-Faixa esperada: 158h - 194h
+Desvio aceitável: ±15% (176h ± 26h)
+Faixa esperada: 150h - 202h
 Com margem incluída: até 202h
 ```
 
