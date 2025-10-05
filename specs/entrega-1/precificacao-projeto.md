@@ -3,13 +3,7 @@
 **Projeto:** Casa Mãe Paulistana  
 **Entrega:** Sistema de Pré-Cadastro (Entrega 1)  
 **Data:** Outubro 2025  
-**Versão:### Cronograma de Pagamento
-
-| Marco | Valor | % | Acumulado |
-|-------|-------|---|-----------||
-| **Assinatura do contrato** | R$ 8.800 | 25% | R$ 8.800 |
-| **Entrega MVP Produção (Fase 1)** | R$ 8.800 | 25% | R$ 17.600 |
-| **Entrega Final (Fase 2)** | R$ 17.600 | 50% | R$ 35.200 |
+**Versão:** 1.0
 
 ### Funcionalidades Incluídas
 
@@ -171,10 +165,10 @@ TOTAL HÍBRIDO:         R$ 35.200
 ### Cronograma de Pagamento
 
 | Marco | Valor | % | Acumulado |
-|-------|-------|---|-----------|
-| **Assinatura do contrato** | R$ 7.920 | 25% | R$ 7.920 |
-| **Entrega MVP Produção (Fase 1)** | R$ 7.920 | 25% | R$ 15.840 |
-| **Entrega Final (Fase 2)** | R$ 15.840 | 50% | R$ 31.680 |
+|-------|-------|---|-----------||
+| **Assinatura do contrato** | R$ 8.800 | 25% | R$ 8.800 |
+| **Entrega MVP Produção (Fase 1)** | R$ 8.800 | 25% | R$ 17.600 |
+| **Entrega Final (Fase 2)** | R$ 17.600 | 50% | R$ 35.200 |
 
 ---
 
