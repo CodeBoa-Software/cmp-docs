@@ -3,7 +3,13 @@
 **Projeto:** Casa Mãe Paulistana  
 **Entrega:** Sistema de Pré-Cadastro (Entrega 1)  
 **Data:** Outubro 2025  
-**Versão:** 1.0
+**Versão:### Cronograma de Pagamento
+
+| Marco | Valor | % | Acumulado |
+|-------|-------|---|-----------||
+| **Assinatura do contrato** | R$ 8.800 | 25% | R$ 8.800 |
+| **Entrega MVP Produção (Fase 1)** | R$ 8.800 | 25% | R$ 17.600 |
+| **Entrega Final (Fase 2)** | R$ 17.600 | 50% | R$ 35.200 |
 
 ### Funcionalidades Incluídas
 
@@ -82,13 +88,13 @@ TOTAL COM MARGEM: 202h
 - Documentação técnica
 - Refinamentos e ajustes
 - **100% do projeto = 176h**
-- **Taxa horária sugerida:** R$ 180/h
+- **Taxa horária sugerida:** R$ 200/h
 
 ## 💵 Precificação final
 
 ### Estrutura em 2 Fases
 
-#### **Fase 1: MVP Funcional - R$ 21.600**
+#### **Fase 1: MVP Funcional - R$ 24.000**
 
 **Prazo:** 3 semanas  
 **Horas:** 120h
@@ -104,12 +110,12 @@ TOTAL COM MARGEM: 202h
 **Objetivo:** Validar funcionalidade core rapidamente.
 
 **Pagamento:**
-- 50% no início (R$ 10.800)
-- 50% na entrega (R$ 10.800)
+- 50% no início (R$ 12.000)
+- 50% na entrega (R$ 12.000)
 
 ---
 
-#### **Fase 2: Refinamento e Produção - R$ 10.080**
+#### **Fase 2: Refinamento e Produção - R$ 11.200**
 
 **Prazo:** 2-5 semanas  
 **Horas:** 56h
@@ -126,24 +132,24 @@ TOTAL COM MARGEM: 202h
 **Objetivo:** Experiência de usuário premium e produção.
 
 **Pagamento:**
-- 100% na entrega final (R$ 10.080)
+- 100% na entrega final (R$ 11.200)
 
 ---
 
 ### Total
 
 ```
-Fase 1 (MVP):          R$ 21.600
-Fase 2 (Refinamento):  R$ 10.080
+Fase 1 (MVP):          R$ 24.000
+Fase 2 (Refinamento):  R$ 11.200
 ──────────────────────────────────
-TOTAL:         R$ 31.680
+TOTAL HÍBRIDO:         R$ 35.200
 ```
 
 ### Características
 
 | Aspecto | Detalhes |
 |---------|----------|
-| **Valor total** | R$ 31.680 (fixo) |
+| **Valor total** | R$ 35.200 (fixo) |
 | **Risco para cliente** | Médio (valida cedo, ajusta depois) |
 | **Risco para fornecedor** | Médio (compartilhado) |
 | **Flexibilidade** | Média-Alta (ajustes entre fases) |
@@ -178,16 +184,16 @@ TOTAL:         R$ 31.680
 
 ```markdown
 ═══════════════════════════════════════════════════════
-INVESTIMENTO: R$ 31.680 (Planejamento em 2 Fases)
+INVESTIMENTO: R$ 35.200 (Planejamento em 2 Fases)
 ═══════════════════════════════════════════════════════
 
 FASE 1 - MVP FUNCIONAL (3 semanas)
-├─ Investimento: R$ 21.600
+├─ Investimento: R$ 24.000
 ├─ Pagamento: 50% início + 50% entrega
 └─ Entrega: Formulário + Upload + Integração Drive
 
 FASE 2 - REFINAMENTO E PRODUÇÃO (2-5 semanas)
-├─ Investimento: R$ 10.080
+├─ Investimento: R$ 11.200
 ├─ Pagamento: 100% na entrega final
 └─ Entrega: UX polido + Testes + Ajustes finais
 
@@ -264,12 +270,12 @@ GARANTIA: 30 dias pós aprovação final
 ### 1. Pagamento Antecipado (À Vista)
 
 ```
-Valor normal: R$ 31.680
+Valor normal: R$ 35.200
 Desconto: -8%
 ──────────────────────────
-Valor à vista: R$ 29.146
+Valor à vista: R$ 32.384
 
-Economia: R$ 2.534
+Economia: R$ 2.816
 ```
 
 **Condições:**
@@ -282,17 +288,17 @@ Economia: R$ 2.534
 ### 2. Fechamento de Múltiplas Entregas
 
 ```
-Entrega 1 (Pré-cadastro):           R$ 31.680
-Entrega 2 (Triagem + WhatsApp):     R$ 34.000
-Entrega 3 (Atendimentos + Dados):   R$ 40.000
+Entrega 1 (Pré-cadastro):           R$ 35.200
+Entrega 2 (Triagem + WhatsApp):     R$ 38.000
+Entrega 3 (Atendimentos + Dados):   R$ 45.000
 ───────────────────────────────────────────────
-Total sem desconto:                R$ 105.680
+Total sem desconto:                R$ 118.200
 
 Desconto (fechamento conjunto): -12%
 ───────────────────────────────────────────────
-VALOR TOTAL COM DESCONTO:           R$ 92.998
+VALOR TOTAL COM DESCONTO:          R$ 104.016
 
-Economia total: R$ 12.682
+Economia total: R$ 14.184
 ```
 
 **Vantagens:**
@@ -305,7 +311,7 @@ Economia total: R$ 12.682
 
 ## 🔍 Justificativa do Preço
 
-### Por que R$ 31.680?
+### Por que R$ 35.200?
 
 #### 1. Complexidade Técnica
 
@@ -345,7 +351,7 @@ Economia total: R$ 12.682
 | **Freelancer "barato"** | R$ 15-25k | ⚠️ Sem garantia, código legado, sem testes, risco alto |
 | **Software pronto (SaaS)** | R$ 300-500/mês | ⚠️ Vendor lock-in, sem customização, compliance duvidoso |
 | **Agência grande** | R$ 80-120k | ✅ Qualidade, ⚠️ Muito caro, overhead alto |
-| **CodeBoa (Proposta)** | R$ 31.680 | ✅ Qualidade, ✅ Preço justo, ✅ Flexível ⭐ |
+| **CodeBoa (Proposta)** | R$ 35.200 | ✅ Qualidade, ✅ Preço justo, ✅ Flexível ⭐ |
 
 ---
 
@@ -358,9 +364,9 @@ Economia total: R$ 12.682
    - Esclarecer dúvidas sobre funcionalidades
    
 2. **Escolher modelo** de pagamento
-   - Time & Material (176h × R$ 180/h = R$ 31.680 base)
-   - Preço Fixo (R$ 31.680)
-   - **Híbrido - Recomendado** (R$ 31.680)
+   - Time & Material (176h × R$ 200/h = R$ 35.200 base)
+   - Preço Fixo (R$ 35.200)
+   - **Híbrido - Recomendado** (R$ 35.200)
    
 3. **Definir infraestrutura**
    - Cloud SQL (R$ 479/mês) ou
