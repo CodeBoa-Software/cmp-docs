@@ -1,7 +1,7 @@
 # Estimativa de Horas - Entrega 1
 
 **Projeto:** Casa Mãe Paulistana  
-**Entrega:** Sistema de Pré-Cadastro (Entrega 1)  
+**Entrega:** Sistema de Pré-Cadastro   
 **Data:** Outubro 2025  
 **Versão:** 1.0
 
@@ -13,18 +13,18 @@
 |-----------|-------|------------|--------------|
 | **1. Análise e Planejamento** | 20h | 10% | Média |
 | **2. Setup de Infraestrutura** | 30h | 15% | Alta |
-| **3. Backend Development** | 59h | 30% | Alta |
-| **4. Frontend Development** | 37h | 19% | Média-Alta |
+| **3. Backend Development** | 49h | 28% | Alta |
+| **4. Frontend Development** | 29h | 17% | Média-Alta |
 | **5. Integração e Testes** | 24h | 12% | Média-Alta |
 | **6. Documentação e Deploy** | 20h | 10% | Baixa-Média |
-| **TOTAL BASE** | **190h** | **100%** | |
+| **TOTAL BASE** | **172h** | **100%** | |
 
 ### Margem de Contingência
 ```
-Horas base: 190h
-Margem para imprevistos (+15%): 29h
+Horas base: 172h
+Margem para imprevistos (+15%): 26h
 ───────────────────────────────────
-TOTAL COM MARGEM: 219h
+TOTAL COM MARGEM: 198h
 ```
 
 **Justificativa da margem:**
@@ -37,7 +37,7 @@ TOTAL COM MARGEM: 219h
 
 ## ⏱️ Detalhamento por Disciplina
 
-### 1. Análise e Planejamento (20h)
+### 1. Análise e Planejamento
 
 | Atividade | Horas | Complexidade |
 |-----------|-------|--------------|
@@ -48,11 +48,11 @@ TOTAL COM MARGEM: 219h
 | Planejamento de testes | 4h | Baixa |
 | Documentação técnica inicial | 4h | Baixa |
 
-**Subtotal:** 20h
+**Subtotal:** 24h
 
 ---
 
-### 2. Setup de Infraestrutura (30h)
+### 2. Setup de Infraestrutura
 
 | Atividade | Horas | Complexidade |
 |-----------|-------|--------------|
@@ -71,7 +71,7 @@ TOTAL COM MARGEM: 219h
 
 ---
 
-### 3. Backend Development (.NET) (57h)
+### 3. Backend Development (.NET)
 
 | Atividade | Horas | Complexidade |
 |-----------|-------|--------------||
@@ -85,7 +85,7 @@ TOTAL COM MARGEM: 219h
 | Middleware de erros e logging | 4h | Média |
 | Testes unitários (cobertura 70%) | 12h | Média |
 
-**Subtotal:** 59h
+**Subtotal:** 49h
 
 **Justificativa da complexidade:**
 - Google Drive API: autenticação OAuth2, upload de arquivos grandes, organização em pastas, tratamento de erros
@@ -95,7 +95,7 @@ TOTAL COM MARGEM: 219h
 
 ---
 
-### 4. Frontend Development (React) (48h)
+### 4. Frontend Development (React)
 
 | Atividade | Horas | Complexidade |
 |-----------|-------|--------------|
@@ -103,13 +103,13 @@ TOTAL COM MARGEM: 219h
 | Formulário em forma de chat | | |
 | Upload de arquivos (drag-n-drop, preview, progresso) | | |
 | Validações client-side | | |
-| Lovable | 5h | Média |
+| Lovable | 10h | Média |
 | Migração de DB direto para API | 6h | Média |
 | Tratamento de erros e loading states | 4h | Média |
 | Responsividade e otimização mobile | 6h | Média |
 | Testes E2E (Playwright - fluxos principais) | 8h | Média |
 
-**Subtotal:** 37h
+**Subtotal:** 29h
 
 **Justificativa da complexidade:**
 - Upload de arquivos: drag-n-drop, preview de PDFs/imagens, barra de progresso, validação de tamanho antes de enviar, tratamento de erros de rede
@@ -118,7 +118,7 @@ TOTAL COM MARGEM: 219h
 
 ---
 
-### 5. Integração e Testes (24h)
+### 5. Integração e Testes
 
 | Atividade | Horas | Complexidade |
 |-----------|-------|--------------|
@@ -133,7 +133,7 @@ TOTAL COM MARGEM: 219h
 
 ---
 
-### 6. Documentação e Deploy (18h)
+### 6. Documentação e Deploy
 
 | Atividade | Horas | Complexidade |
 |-----------|-------|--------------|
@@ -158,14 +158,14 @@ TOTAL COM MARGEM: 219h
 - Testes (unitários, integração, E2E)
 - Documentação técnica
 - Refinamentos e ajustes
-- **100% do projeto = 190h**
+- **100% do projeto = 172h**
 - **Taxa horária sugerida:** R$ 200/h
 
 ---
 
 ## 🎯 Distribuição de Horas por Fase (Modelo Híbrido)
 
-### Fase 1: MVP Funcional (~140h)
+### Fase 1: MVP Funcional (137h)
 
 **Prazo:** 3 semanas
 
@@ -189,7 +189,7 @@ TOTAL COM MARGEM: 219h
 
 ---
 
-### Fase 2: Refinamento e Produção (~87h)
+### Fase 2: Refinamento e Produção (86h)
 
 **Prazo:** 2-5 semanas
 
@@ -199,7 +199,7 @@ TOTAL COM MARGEM: 219h
 | Backend Development (refinamentos) | 22h |
 | Frontend Development (polimento) | 18h |
 | Integração e Testes (completos) | 9h |
-| Documentação e Deploy (produção) | 3h |
+| Documentação e Deploy | 5h |
 | **TOTAL FASE 2** | **86h** |
 
 **Entregas:**
@@ -216,7 +216,7 @@ TOTAL COM MARGEM: 219h
 ## 💡 Considerações e Premissas
 
 ### Stack Tecnológica Definida
-- **Frontend:** React + Vite + TypeScript + Shadcn/UI + Tailwind CSS
+- **Frontend:** React + Vite + TypeScript + Shadcn/UI + Tailwind CSS (gerado via Lovable AI)
 - **Backend:** .NET (ASP.NET Core) + Entity Framework + MediatR
 - **Banco de Dados:** PostgreSQL (AlloyDB ou Cloud SQL)
 - **Storage:** Google Drive API + Cloud Storage (backup)
@@ -289,9 +289,9 @@ Ao final do projeto, validar:
 ### Meta de Precisão
 
 ```
-Desvio aceitável: ±10% (190h ± 19h)
-Faixa esperada: 171h - 209h
-Com margem incluída: até 219h
+Desvio aceitável: ±10% (172h ± 17h)
+Faixa esperada: 155h - 189h
+Com margem incluída: até 198h
 ```
 
 ---
