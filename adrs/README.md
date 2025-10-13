@@ -3,6 +3,9 @@
 ## Índice de ADRs
 
 - [ADR-001: Uso de Architecture Decision Records](./ADR-001-uso-de-adrs.md)
+- [ADR-002: Arquitetura Técnica da Aplicação](./ADR-002-arquitetura-tecnica.md)
+- [ADR-003: Estratégia de Armazenamento de Documentos](./ADR-003-armazenamento-documentos.md)
+- [ADR-004: Arquitetura de Autenticação JWT para CIPCD](./ADR-004-autenticacao-jwt-cipcd.md)
 
 > **Nota:** As discussões em andamento estão sendo documentadas em [`/docs/ideias-discussoes.md`](../docs/ideias-discussoes.md) 
 > e serão formalizadas como ADRs quando as decisões estiverem maduras.
