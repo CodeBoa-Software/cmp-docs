@@ -440,11 +440,6 @@ Componentes:
   - Cloud Storage (backup): R$ 8
   - Monitoring: R$ 39
 
-Custo por cadastro: R$ 0,16
-ROI vs processo manual: 
-  - Manual: R$ 8,33/cadastro
-  - Automatizado: R$ 0,16/cadastro
-  - Economia: R$ 8,17/cadastro (98% mais barato!)
 ```
 
 **Justificativa:**
