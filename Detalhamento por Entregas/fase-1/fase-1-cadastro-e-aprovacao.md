@@ -1,4 +1,4 @@
-# Requisitos para Entrega 1 - 10 de Novembro 2025
+# Requisitos para Fase 1 - 10 de Novembro 2025
 
 **Data da Entrega:** 10/11/2025  
 **Projeto:** Casa Mãe Paulistana  
